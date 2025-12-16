@@ -15,7 +15,7 @@ This repository collects my iADC project work (analog modeling, digital RTL, and
 4. Use `analog/` for figures (plots/diagrams) referenced by the docs.
 
 ## Documents (start here)
-- `docs/ADC_Sem1_SPICE_MacroModel_Report.pdf`  
+- `docs/sem1_spice_macromodel_report.pdf`  
   Sem 1: ADC macro-modeling (switch, integrator, comparator), simulations, and key results.
 
 - `docs/sem2_analog_design_summary.pdf`  
@@ -27,10 +27,10 @@ This repository collects my iADC project work (analog modeling, digital RTL, and
 - `docs/sem2_tapeout_checklist_public.pdf`  
   Sem 2: Tapeout checklist / sign-off summary (high-level).
 
-- `docs/Sem2_Digital_Verification_Report.pdf`  
+- `docs/sem2_digital_verification_report.pdf`  
   Digital: VHDL block description, timing diagrams, and verification results.
 
-- `docs/Sem3_Lab_Verification_Report.pdf`  
+- `docs/sem3_lab_verification_report.pdf`  
   Sem 3: Lab verification (static and dynamic performance validation and debugging).
 
 ## Lab folder contents
