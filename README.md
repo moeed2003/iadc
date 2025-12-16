@@ -30,6 +30,10 @@ This repository collects my iADC project work (analog modeling, digital RTL, and
 - `docs/Sem2_Digital_Verification_Report.pdf`  
   Digital: VHDL block description, timing diagrams, and verification results.
 
+## Lab folder contents
+The `lab/` folder contains Python scripts for measurement automation and post-processing.
+It also includes example inputs/config files to help run the scripts on a similar setup.
+
 ## Digital folder contents
 The `digital/` folder focuses on the source code and simulation setup (RTL + TB).
 Generated implementation outputs (e.g., layout/synthesis artifacts) are not tracked here.
